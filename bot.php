@@ -1,6 +1,6 @@
 <?php
 
-// Bot criado por @DARKNETSSH código original para o @DARKNETSSHBOT
+// Bot criado por https://t.me/Vaniosshplus código original para o https://t.me/Vaniosshplus
 
 date_default_timezone_set ('America/Sao_Paulo'); // define timestamp padrão
 
@@ -56,7 +56,7 @@ switch ($tlg->Text ()){
 
 	$tlg->sendMessage ([
 		'chat_id' => $tlg->ChatID (),
-		'text' => 'Bot original @DARKNETSSHBOT por @DARKNETSSH'
+		'text' => 'Bot original https://t.me/Vaniosshplus por https://t.me/Vaniosshplus'
 	]);
 
 	break;
